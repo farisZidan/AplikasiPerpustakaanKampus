@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -59,3 +60,19 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# AplikasiPerpustakaanKampus
+Aplikasi Web Admin Perpustakaan dibangun menggunakan Framework Laravel. Aplikasi ini dibuat untuk memenuhi tugas akhir mata kuliah Pemrograman Framework Universitas Semarang.
+
+Aplikasi ini memiliki fitur dasar pengelolaan perpustakaan: 
+1. Mengelola Buku
+2. Mengelola Anggota perpustakaan
+3. Mengelola Transaksi Peminjaman
+
+Styling dibuat dengan vite, pastikan sudah menginstall node.js atau aplikasi sejenisnya sebelum menjalankan aplikasi ini.
+Menggunakan database MySql.
+
+Akun admin aplikasi ini:
+Username: Admin1
+Password: 123456
+>>>>>>> 4d05c52c962c76d69dcd68af182740f46a5159cc
